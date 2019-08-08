@@ -35,13 +35,13 @@ Happy creating!
 ## Extra Credit:
 Add pictures of each user to the contact page!
 
--->Kwesi will bring his camera and provide free headshots!!
+        -->Kwesi will bring his camera and provide free headshots!!
 
 Incorporate an API onto the Contact page
 
--->Give each contact their own song/gif/pokemon etc...
+        -->Give each contact their own song/gif/pokemon etc...
 
-##Tips and  Resources:
+## Tips and  Resources:
 Firebase API Documentation : https://firebase.google.com/docs/reference/js/firebase.database
 
 A lot of the code you may have already written! Refer to old code if you get stuck or need inspiration!
